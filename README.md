@@ -46,7 +46,11 @@ The platform explores how programmable bio-agents could navigate vascular enviro
 - PyTorch
 - React / Next.js
 - Three.js
+## Simulation Demo
 
+<p align="center">
+  <img src="./assets/demo.mp4" width="85%">
+</p>
 ---
 
 ## Features
