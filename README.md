@@ -16,7 +16,11 @@ AI-Guided Nano-Biomedical Simulation Platform
 ![NanoTech](https://img.shields.io/badge/Nanotechnology-research-purple)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ## Overview
-
+## Roadmap
+## Architecture
+## Installation
+## Demo
+## Research Goals
 Jaki-Netwood is an advanced nano-biomedical simulation project combining:
 
 - Magnetotactic Bacteria
