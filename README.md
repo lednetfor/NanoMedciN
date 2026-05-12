@@ -53,7 +53,14 @@ The platform explores how programmable bio-agents could navigate vascular enviro
 - Physics-based simulation
 
 ---
+## Research Status
 
+- [x] Concept Design
+- [x] README Architecture
+- [x] Simulation Planning
+- [ ] Physics Validation
+- [ ] AI Navigation Testing
+- [ ] Biological Modeling
 ## Project Structure
 
 ```bash
