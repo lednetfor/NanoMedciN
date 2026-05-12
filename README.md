@@ -27,7 +27,11 @@ Jaki-Netwood is an advanced nano-biomedical simulation project combining:
 The platform explores how programmable bio-agents could navigate vascular environments using AI-assisted magnetic guidance.
 
 ---
+## Simulation Preview
 
+<p align="center">
+  <img src="./simulation.gif" width="80%">
+</p>
 ## Tech Stack
 
 - NVIDIA Isaac Sim
