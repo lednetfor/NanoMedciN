@@ -1,25 +1,58 @@
-# Jaki-Netwood
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lednetfor/Jaki-Netwood-Nanomedicine-Simulation/main/assets/banner.png" alt="Jaki-Netwood Banner" width="100%">
+</p>
 
-AI-Guided Nano-Bio Operating System for Cancer Detection & Immune Priming
+<h1 align="center">JAKI-NETWOOD</h1>
+
+<p align="center">
+AI-Guided Nano-Biomedical Simulation Platform
+</p>
+
+---
 
 ## Overview
-Jaki-Netwood is a conceptual nano-biomedical simulation platform combining:
-- AI navigation
-- Magnetotactic bacteria
-- Digital twin simulation
-- Cancer detection concepts
-- Immune-system priming
+
+Jaki-Netwood is an advanced nano-biomedical simulation project combining:
+
+- Magnetotactic Bacteria
+- Artificial Intelligence
+- Digital Twin Systems
+- Nano Navigation
+- Cancer Detection Concepts
+- Immune Priming Simulation
+
+The platform explores how programmable bio-agents could navigate vascular environments using AI-assisted magnetic guidance.
+
+---
 
 ## Tech Stack
+
 - NVIDIA Isaac Sim
 - NVIDIA Omniverse
 - Python
+- PyTorch
 - React / Next.js
 - Three.js
 
-## Structure
-- simulation/: Nano-physics and navigation
-- ai/: AI pathfinding and models
-- frontend/: Visualization dashboard
-- backend/: Control systems
-- visuals/: Renders and videos
+---
+
+## Features
+
+- AI-guided nano-navigation
+- Magnetic steering simulation
+- Digital Twin visualization
+- Tumor targeting concepts
+- Swarm coordination
+- Physics-based simulation
+
+---
+
+## Project Structure
+
+```bash
+simulation/
+ai/
+frontend/
+backend/
+visuals/
+docs/
