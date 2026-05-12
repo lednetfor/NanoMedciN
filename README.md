@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lednetfor/Jaki-Netwood-Nanomedicine-Simulation/main/assets/banner.png" alt="Jaki-Netwood Banner" width="100%">
+  <img src="./nano.png" alt="Jaki-Netwood Banner" width="100%">
 </p>
 
 <h1 align="center">JAKI-NETWOOD</h1>
