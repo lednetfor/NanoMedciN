@@ -7,7 +7,9 @@
 <p align="center">
 AI-Guided Nano-Biomedical Simulation Platform
 </p>
+## Google Colab Demo
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
 ---
 ![Status](https://img.shields.io/badge/status-development-blue)
 ![AI](https://img.shields.io/badge/AI-powered-green)
